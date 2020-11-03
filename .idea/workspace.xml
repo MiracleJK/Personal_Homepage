@@ -29,8 +29,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python notebook\Git_Repos\Personal_Homepage\blog" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Personal_Homepage" type="Python.DjangoServer" factoryName="Django server">
@@ -67,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604390082915</updated>
       <workItem from="1604390085203" duration="1876000" />
-      <workItem from="1604391988997" duration="15828000" />
+      <workItem from="1604391988997" duration="18809000" />
     </task>
     <servers />
   </component>
@@ -79,22 +84,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1604408897413" />
-    <state width="1483" height="197" key="GridCell.Tab.0.bottom" timestamp="1604410856369">
+    <state width="1483" height="197" key="GridCell.Tab.0.bottom" timestamp="1604414732743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604410856369" />
-    <state width="1483" height="197" key="GridCell.Tab.0.center" timestamp="1604410856369">
+    <state width="1483" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604414732743" />
+    <state width="1483" height="197" key="GridCell.Tab.0.center" timestamp="1604414732743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="197" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604410856369" />
-    <state width="1483" height="197" key="GridCell.Tab.0.left" timestamp="1604410856369">
+    <state width="1483" height="197" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604414732743" />
+    <state width="1483" height="197" key="GridCell.Tab.0.left" timestamp="1604414732743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="197" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604410856369" />
-    <state width="1483" height="197" key="GridCell.Tab.0.right" timestamp="1604410856369">
+    <state width="1483" height="197" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604414732743" />
+    <state width="1483" height="197" key="GridCell.Tab.0.right" timestamp="1604414732743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="197" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604410856369" />
+    <state width="1483" height="197" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604414732743" />
     <state x="306" y="0" key="SettingsEditor" timestamp="1604392083624">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
